@@ -78,16 +78,3 @@ Documenting security incidents and response actions.
 📁 Folder: `Incident-Handler-Journal`
 
 ---
-
-## Resume
-
-You can download my resume here:
-
-[Download Resume](Resume/jayesh_verma_resume.pdf)
-
----
-
-## Contact
-
-LinkedIn: https://linkedin.com  
-Email: your-email@email.com
