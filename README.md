@@ -1,80 +1,135 @@
-# Cybersecurity Portfolio – Jayesh Verma
+# 🔐 Cybersecurity Portfolio – Jayesh Verma
 
-Welcome to my Cybersecurity Portfolio.  
-This repository showcases my cybersecurity projects, labs, and security analysis demonstrating my skills in security auditing, network analysis, Linux security, and incident response.
+Welcome to my Cybersecurity Portfolio.
+This repository showcases my cybersecurity learning, hands-on labs, and security analysis projects. The purpose of this portfolio is to demonstrate my skills in **network security, Linux security, SQL security, vulnerability assessment, and incident response**.
 
----
-
-## About Me
-
-I am Jayesh Verma, a Computer Science graduate with a strong interest in Cybersecurity, Ethical Hacking, and Security Analysis.  
-I enjoy identifying vulnerabilities, analyzing security incidents, and improving system security.
+I am a Computer Science graduate passionate about **cybersecurity, ethical hacking, and digital defense**. This portfolio highlights practical exercises and reports that simulate real-world security tasks.
 
 ---
 
-## Skills
+# 📂 Portfolio Structure
 
-- Linux Security
-- Network Security
-- Security Auditing
-- Incident Response
-- Log Analysis
-- SQL Investigation
-- Vulnerability Assessment
+## 👨‍💻 Professional Statement
 
----
+A personal statement describing my cybersecurity interests, career goals, and motivation.
 
-## Tools
-
-- Nmap
-- Wireshark
-- Gobuster
-- Burp Suite
-- Linux CLI
-- Git & GitHub
+View:
+[Professional Statement](Professional-Statement/professional_statement.md)
 
 ---
 
-## Portfolio Projects
+## 🔎 Security Audit
 
-### 1. Security Audit
-Security audit of an organization’s security controls and compliance.
+This project demonstrates how to conduct a **security audit of an organization’s systems**.
+It includes identifying risks, evaluating security controls, and recommending improvements.
 
-📁 Folder: `Security-Audit`
-
----
-
-### 2. Network Security Analysis
-Analysis of network structure and identification of potential vulnerabilities.
-
-📁 Folder: `Network-Analysis`
+View:
+[Security Audit Report](Security-Audit/security_audit_report.md)
 
 ---
 
-### 3. Linux File Permissions
-Using Linux commands to manage file permissions and secure system files.
+## 🌐 Network Analysis
 
-📁 Folder: `Linux-Security`
+This section focuses on **network traffic analysis and security monitoring**.
 
----
+Topics covered include:
 
-### 4. SQL Security Investigation
-Using SQL queries to analyze suspicious login activity.
+* Packet analysis
+* Network protocols
+* Identifying suspicious traffic
 
-📁 Folder: `SQL-Security`
-
----
-
-### 5. Vulnerability Assessment
-Identifying vulnerabilities in a small business network and recommending mitigation strategies.
-
-📁 Folder: `Vulnerability-Assessment`
+View:
+[Network Analysis](Network-Analysis/network_analysis.md)
 
 ---
 
-### 6. Incident Handler Journal
-Documenting security incidents and response actions.
+## 🐧 Linux Security
 
-📁 Folder: `Incident-Handler-Journal`
+This project explores **Linux security fundamentals**, including file permissions and system protection.
+
+Topics covered:
+
+* File permission management
+* Secure user access
+* Linux security best practices
+
+View:
+[Linux Permissions & Security](Linux-Security/linux_permissions.md)
 
 ---
+
+## 🗄 SQL Security
+
+This section demonstrates how SQL can be used in **security investigations and database analysis**.
+
+Topics include:
+
+* Querying security logs
+* Filtering suspicious login attempts
+* Investigating database events
+
+View:
+[SQL Security Queries](SQL-Security/sql_security_queries.md)
+
+---
+
+## ⚠️ Vulnerability Assessment
+
+This project focuses on **identifying vulnerabilities in systems and applications**.
+
+Topics include:
+
+* Risk assessment
+* Vulnerability scanning
+* Security recommendations
+
+View:
+[Vulnerability Assessment Report](Vulnerability-Assessment/vulnerability_report.md)
+
+---
+
+## 🚨 Incident Handler Journal
+
+A documentation of **security incidents and response procedures**.
+
+This includes:
+
+* Incident investigation
+* Response steps
+* Lessons learned
+
+View:
+[Incident Handler Journal](Incident-Handler-Journal/incident_journal.md)
+
+---
+
+# 🛠 Skills Demonstrated
+
+* Cybersecurity Fundamentals
+* Security Auditing
+* Network Traffic Analysis
+* Linux Security
+* SQL for Security Investigations
+* Vulnerability Assessment
+* Incident Response Documentation
+* Security Reporting
+
+---
+
+# 🧰 Tools & Technologies
+
+* Linux
+* SQL
+* Git & GitHub
+* Networking Concepts
+* Security Analysis Techniques
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a **Cybersecurity Analyst / Security Engineer** and contribute to protecting organizations from cyber threats.
+
+---
+
+⭐ If you find this portfolio useful, feel free to explore the projects and connect with me!
